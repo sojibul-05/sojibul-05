@@ -16,7 +16,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/sojibul-05)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
